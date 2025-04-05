@@ -1,0 +1,22 @@
+{
+  "name": "hello-world-fullstack",
+  "version": "1.0.0",
+  "description": "A full-stack Hello World web application using React and FastAPI.",
+  "main": "src/index.jsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "vite": "^2.6.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
